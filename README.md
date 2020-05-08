@@ -27,12 +27,11 @@ This is a Microverse project on the implementation of the bubble sort algorithm 
 - Linkedin: [Christopher Amanor](https://www.linkedin.com/in/christopher-amanor-81a7b93b/)
 - Email: [Christopher Amanor](mailto:christopher.k.amanor@gmail.com)
 
-👤 **Christopher Amanor**
+👤 **Ebeagu Samuel**
 
-- Github: [@krys2fa](https://github.com/krys2fa)
-- Twitter: [@krys2fa](https://twitter.com/krys2fa)
-- Linkedin: [Christopher Amanor](https://www.linkedin.com/in/christopher-amanor-81a7b93b/)
-- Email: [Christopher Amanor](mailto:christopher.k.amanor@gmail.com)
+- Github: [@ebeagusamuel](https://github.com/ebeagusamuel)
+- Twitter: [@ebeagu_samuel](https://twitter.com/ebeagu_samuel)
+- Email: [Ebeagu Samuel](mailto:samuelebeagu@gmail.com)
 
 ## 🤝 Contributing
 
