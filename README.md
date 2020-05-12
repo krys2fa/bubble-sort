@@ -46,5 +46,5 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- [The Odin Project](https://github.com/TheOdinProject/curriculum/blob/master/ruby_programming/archive/basic_ruby/project_advanced_building_blocks.md#project-2-enumerable-methods) 
+- [The Odin Project](https://www.theodinproject.com/courses/ruby-programming/lessons/bubble-sort) 
 - Microverse
