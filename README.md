@@ -17,6 +17,7 @@ This is a Microverse project on the implementation of the bubble sort algorithm 
 
 - Fork the repo to your remote repository.
 - Clone or download the repository to your local machine.
+- Happy coding!
 
 ## Authors
 
@@ -37,7 +38,7 @@ This is a Microverse project on the implementation of the bubble sort algorithm 
 
 Contributions, issues and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/evansinho/Bubble_sort/issues).
+Feel free to check the [issues page](https://github.com/krys2fa/bubble-sort/issues).
 
 ## Show your support
 
@@ -45,4 +46,5 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- TheOdinProject.com PROJECT: BUBBLE SORT
+- [The Odin Project](https://github.com/TheOdinProject/curriculum/blob/master/ruby_programming/archive/basic_ruby/project_advanced_building_blocks.md#project-2-enumerable-methods) 
+- Microverse
